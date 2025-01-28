@@ -1,4 +1,4 @@
-# Parking Booking System
+# Smart Parking System using RFID Technology
 
 This is a simple parking booking system built using React and Node.js.
 
